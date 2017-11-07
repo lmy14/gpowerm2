@@ -1,9 +1,18 @@
-  body {
+ body {
     padding-top: 15px;
     font-size: 12px
   }
+.title{
+  max-width:380px;
+  margin: 0 auto;
+}
+
+.subtitle{
+  max-width:380px;
+  margin: 0 auto;
+}
   .main {
-    max-width: 320px;
+    max-width: 380px;
     margin: 0 auto;
   }
   .login-or {
